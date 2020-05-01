@@ -6,10 +6,16 @@ h1
 
 
 p.phoneColor{
-    color: red;
+    color: blue;
 }
 
 
 h2.phoneColor{
-    color:blueviolet;
+    color:black;
 }
+
+body{
+    background-image: url(whitebg.jpg);
+    background-repeat:no-repeat;
+    width: 835px;
+    height: 547px; }
